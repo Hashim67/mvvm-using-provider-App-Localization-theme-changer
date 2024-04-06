@@ -1,0 +1,19 @@
+{
+    "login": "لاگ ان",
+    "email": "ای میل",
+    "emailPrompt": "اپنا ای میل درج کریں",
+    "password": "پاس ورڈ",
+    "dontHaveAnAccountSignUp": "کیا آپ کا اکاؤنٹ نہیں ہے؟ سائن اپ کریں",
+    "signUp": "سائن اپ",
+    "alreadyHaveAnAccountLogin": "پہلے ہی اکاؤنٹ ہے؟ لاگ ان کریں",
+    "getMovieData": "مووی ڈیٹا حاصل کریں",
+    "logout": "لاگ آوٹ",
+    "profileScreen": "پروفائل اسکرین",
+    "username": "صارف کا نام",
+    "update": "اپ ڈیٹ",
+    "selectImage": "تصویر منتخب کریں",
+    "camera": "کیمرہ",
+    "gallery": "گیلری",
+    "enterYourName": "اپنا صارف نام درج کریں",
+    "passwordPrompt": "پاس ورڈ درج کریں"
+}

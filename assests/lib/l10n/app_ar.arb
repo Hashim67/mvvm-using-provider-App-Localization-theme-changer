@@ -1,0 +1,19 @@
+{
+    "login": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "emailPrompt": "ادخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "dontHaveAnAccountSignUp": "هل ليس لديك حساب؟ سجل",
+    "signUp": "سجل",
+    "alreadyHaveAnAccountLogin": "هل لديك حساب بالفعل؟ تسجيل الدخول",
+    "getMovieData": "الحصول على بيانات الفيلم",
+    "logout": "تسجيل الخروج",
+    "profileScreen": "شاشة الملف الشخصي",
+    "username": "اسم المستخدم",
+    "update": "تحديث",
+    "selectImage": "اختر الصورة",
+    "camera": "الكاميرا",
+    "gallery": "المعرض",
+    "enterYourName": "ادخل اسم المستخدم الخاص بك",
+    "passwordPrompt": "ادخل كلمة المرور الخاصة بك"
+}

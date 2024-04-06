@@ -1,0 +1,19 @@
+{
+    "login": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "emailPrompt": "Ingrese su correo electrónico",
+    "password": "Contraseña",
+    "dontHaveAnAccountSignUp": "¿No tienes una cuenta? Regístrate",
+    "signUp": "Regístrate",
+    "alreadyHaveAnAccountLogin": "¿Ya tienes una cuenta? Inicia sesión",
+    "getMovieData": "Obtener datos de la película",
+    "logout": "Cerrar sesión",
+    "profileScreen": "Pantalla de perfil",
+    "username": "Nombre de usuario",
+    "update": "Actualizar",
+    "selectImage": "Seleccionar imagen",
+    "camera": "Cámara",
+    "gallery": "Galería",
+    "enterYourName": "Ingrese su nombre de usuario",
+    "passwordPrompt": "Ingrese su contraseña"
+}

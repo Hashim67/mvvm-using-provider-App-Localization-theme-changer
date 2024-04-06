@@ -1,0 +1,19 @@
+{
+    "login": "Login",
+    "email": "Email",
+    "emailPrompt": "Enter your email",
+    "password": "Password",
+    "dontHaveAnAccountSignUp": "Don't have an account? Sign Up",
+    "signUp": "Sign Up",
+    "alreadyHaveAnAccountLogin": "Already have an account? Login",
+    "getMovieData": "Get Movie Data",
+    "logout": "Logout",
+    "profileScreen": "Profile Screen",
+    "username": "Username",
+    "update": "Update",
+    "selectImage": "Select Image",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "enterYourName": "Enter your username",
+    "passwordPrompt": "Enter Password"
+}
